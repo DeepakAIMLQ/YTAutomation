@@ -1,0 +1,23 @@
+#CROSS FADE
+
+pydub
+ffmpeg-python
+
+#beat matching
+librosa
+numpy
+scipy
+
+#frontend
+streamlit
+
+#backend
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+requests
+aiofiles
+
+#experient notebook
+ipykernel
